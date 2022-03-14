@@ -1,0 +1,21 @@
+1. 10^4 numere. Valori pe 32 de biti. Numere generate aleator din intervalul [0,100]
+2. 10^4 numere. Valori pe 32 de biti. Numere generate aleator
+3. 10^5 numere. Valori pe 32 de biti. Numere generate aleator, dar cu un numar redus de inversiuni.
+4. 10^5 numere. Valori pe 64 de biti. Numere generate aleator.
+5. 10^6 numere. valori pe 32 de biti. Numere generate aleator.
+6. 10^6 numere. Valori pe 64 de biti. Numere generate aleator.
+7. 10^7 numere. Valori pe 32 de biti. Numere generate aleator.
+8. 10^7 numere. Valori pe 64 de biti. Numere generate aleator, dar cu un numar redus de inversiuni
+9. 10^8 numere. Valori pe 32 de biti. Numere generate aleator din intervalul [0,1000]
+10. 10^8 numere. Valori pe 64 de biti. Numere generate aleator
+
+10000 100
+10000 99999999
+100000 1147000000
+100000 4223000000000000000
+1000000 99999999
+1000000 4223000000000000000
+10000000 1147000000
+10000000 99999999
+100000000 1000
+100000000 4223000000000000000

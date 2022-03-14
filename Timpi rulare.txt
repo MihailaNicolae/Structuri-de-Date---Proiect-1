@@ -1,0 +1,66 @@
+Count Sort
+- 4988 microsecunde
+- 857709 microsecunde
+- Nu
+- Nu
+- 1096561 microsecunde
+- Nu
+- Nu
+- 6516045 microsecunde
+- 27771871 microsecunde
+- Nu
+Merge Sort
+-1996 microsecunde
+-1996 microsecunde
+-13967 microsecunde
+-23936 microsecunde
+-285258 microsecunde
+-282185 microsecunde
+-3301804 microsecunde
+-1884160 microsecunde
+-17249619 microsecunde
+-22175022 microsecunde
+Quick Sort
+-1994 microsecunde
+-1994 microsecunde
+-6169615 microsecunde
+-20944 microsecunde
+-258306 microsecunde
+-255830 microsecunde
+-2998521 microsecunde
+-Nu
+-Nu
+-Nu
+Radix Sort
+-998 microsecunde
+-2992 microsecunde
+-21899 microsecunde
+-31915 microsecunde
+-283201 microsecunde
+-313160 microsecunde
+-3505660 microsecunde
+-2766717 microsecunde
+-14134938 microsecunde
+-31326895 microsecunde
+Shell Sort
+-1994 microsecunde
+-2993 microsecunde
+-11971 microsecunde
+-36903 microsecunde
+-538532 microsecunde
+-519611 microsecunde
+-7378415 microsecunde
+-964466 microsecunde
+-31955453 microsecunde
+-67337417 microsecunde
+Sortare Sistem
+-1994 microsecunde
+-1995 microsecunde
+-13971 microsecunde
+-28922 microsecunde
+-348098 microsecunde
+-344110 microsecunde
+-3931623 microsecunde
+-1718470 microsecunde
+-21310519 microsecunde
+-26642218 microsecunde

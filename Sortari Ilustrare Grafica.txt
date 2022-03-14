@@ -1,0 +1,6 @@
+https://youtu.be/8MsTNqK3o_w
+Count Sort - 21:01 
+Quick Sort - 5:56
+Shell Sort - 14:51
+Merge Sort - 15:53
+Radix Sort - 23:00
